@@ -1,0 +1,94 @@
+{
+  "id": "appendix-00006",
+  "kind": "appendix",
+  "title": "資治通鑑序",
+  "source": "OEBPS/text00006.html",
+  "blocks": [
+    {
+      "id": "text00006-p00001",
+      "type": "h1",
+      "className": "h1",
+      "text": "資治通鑑序",
+      "html": "資治通鑑序",
+      "notes": [
+        {
+          "id": "text00006-p00001-n01",
+          "kind": "note",
+          "text": "御製",
+          "html": "御製"
+        }
+      ],
+      "source": "text00006.html"
+    },
+    {
+      "id": "text00006-p00002",
+      "type": "body",
+      "className": "origin",
+      "text": "宋神宗 趙頊 御製",
+      "html": "<span class=\"source-place\">宋神宗</span> <span class=\"source-person\">趙頊</span> 御製",
+      "notes": [],
+      "source": "text00006.html"
+    },
+    {
+      "id": "text00006-p00003",
+      "type": "body",
+      "className": "origin",
+      "text": "朕惟君子多識前言往行以畜其德，故能剛健篤實，輝光日新。書 亦曰：「王，人求多聞，時惟建事。」詩 、書 、春秋 ，皆所以明乎得失之迹，存王道之正，垂鑑戒於後世者也。",
+      "html": "朕惟君子多識前言往行以畜其德，故能剛健篤實，輝光日新。<span class=\"source-book\">書</span>\r\n 亦曰：「王，人求多聞，時惟建事。」<span class=\"source-book\">詩</span>\r\n 、<span class=\"source-book\">書</span>\r\n 、<span class=\"source-book\">春秋</span>\r\n ，皆所以明乎得失之迹，存王道之正，垂鑑戒於後世者也。",
+      "notes": [],
+      "source": "text00006.html"
+    },
+    {
+      "id": "text00006-p00004",
+      "type": "body",
+      "className": "origin",
+      "text": "漢 司馬遷 紬石室金匱之書，據左氏 國語 ，推世本 、戰國策 、楚漢春秋 ，采經摭傳，罔羅天下放失舊聞，考之行事，馳騁上下數千載間，首記軒轅 ，至于麟止，作爲紀、表、世家、書、傳，後之述者不能易此體也。惟其是非不謬於聖人，褒貶出於至當，則良史之才矣。",
+      "html": "\r\n<span class=\"source-place\">漢</span>\r\n <span class=\"source-person\">司馬遷</span>\r\n 紬石室金匱之書，據<span class=\"source-person\">左氏</span>\r\n <span class=\"source-book\">國語</span>\r\n ，推<span class=\"source-book\">世本</span>\r\n 、<span class=\"source-book\">戰國策</span>\r\n 、<span class=\"source-book\">楚漢春秋</span>\r\n ，采經摭傳，罔羅天下放失舊聞，考之行事，馳騁上下數千載間，首記<span class=\"source-person\">軒轅</span>\r\n ，至于麟止，作爲紀、表、世家、書、傳，後之述者不能易此體也。惟其是非不謬於聖人，褒貶出於至當，則良史之才矣。",
+      "notes": [],
+      "source": "text00006.html"
+    },
+    {
+      "id": "text00006-p00005",
+      "type": "body",
+      "className": "origin",
+      "text": "若稽古英考，留神載籍，萬機之下，未嘗廢卷。嘗命龍圖閣 直學士司馬光 論次歷代君臣事迹，俾就祕閣繙閱，給吏史筆札，起周威烈王 ，訖于五代 。光 之志以爲周 積衰，王室微，禮樂征伐自諸侯出，平王 東遷，齊 、楚 、秦 、晉 始大，桓 、文 更霸，猶託尊王爲辭以服天下；威烈王 自陪臣命韓 、趙 、魏 爲諸侯，周 雖未滅，王制盡矣！此亦古人述作造端立意之所繇也。其所載明君、良臣，切摩治道，議論之精語，德刑之善制，天人相與之際，休咎庶證之原，威福盛衰之本，規模利害之效，良將之方略，循吏之條敎，斷之以邪正，要之於治忽，辭令淵厚之體，箴諫深切之義，良謂備焉。凡十六代，勒成二百九十六『章 ：乙十一行本，「六」作「四」。』 卷，列于戶牖之間而盡古今之統，博而得其要，簡而周于事，是亦典刑之總會，冊牘之淵林矣。",
+      "html": "若稽古英考，留神載籍，萬機之下，未嘗廢卷。嘗命<span class=\"source-place\">龍圖閣</span>\r\n 直學士<span class=\"source-person\">司馬光</span>\r\n 論次歷代君臣事迹，俾就祕閣繙閱，給吏史筆札，起<span class=\"source-person\">周威烈王</span>\r\n ，訖于<span class=\"source-place\">五代</span>\r\n 。<span class=\"source-person\">光</span>\r\n 之志以爲<span class=\"source-place\">周</span>\r\n 積衰，王室微，禮樂征伐自諸侯出，<span class=\"source-person\">平王</span>\r\n 東遷，<span class=\"source-place\">齊</span>\r\n 、<span class=\"source-place\">楚</span>\r\n 、<span class=\"source-place\">秦</span>\r\n 、<span class=\"source-place\">晉</span>\r\n 始大，<span class=\"source-person\">桓</span>\r\n 、<span class=\"source-person\">文</span>\r\n 更霸，猶託尊王爲辭以服天下；<span class=\"source-person\">威烈王</span>\r\n 自陪臣命<span class=\"source-place\">韓</span>\r\n 、<span class=\"source-place\">趙</span>\r\n 、<span class=\"source-place\">魏</span>\r\n 爲諸侯，<span class=\"source-place\">周</span>\r\n 雖未滅，王制盡矣！此亦古人述作造端立意之所繇也。其所載明君、良臣，切摩治道，議論之精語，德刑之善制，天人相與之際，休咎庶證之原，威福盛衰之本，規模利害之效，良將之方略，循吏之條敎，斷之以邪正，要之於治忽，辭令淵厚之體，箴諫深切之義，良謂備焉。凡十六代，勒成二百九十六<span class=\"source-note source-note-collation\" data-note-id=\"text00006-p00005-n01\"><span class=\"source-note-marker\">校</span><span class=\"source-note-text\">『<span class=\"source-person\">章</span>\r\n ：乙十一行本，「六」作「四」。』</span></span>\r\n 卷，列于戶牖之間而盡古今之統，博而得其要，簡而周于事，是亦典刑之總會，冊牘之淵林矣。",
+      "notes": [
+        {
+          "id": "text00006-p00005-n01",
+          "kind": "collation",
+          "text": "『章 ：乙十一行本，「六」作「四」。』",
+          "html": "『<span class=\"source-person\">章</span>\r\n ：乙十一行本，「六」作「四」。』"
+        }
+      ],
+      "source": "text00006.html"
+    },
+    {
+      "id": "text00006-p00006",
+      "type": "body",
+      "className": "origin",
+      "text": "荀卿 有言：「欲觀聖人之迹，則於其粲然者矣，後王是也。」若夫漢 之文 、宣 ，唐 之太宗 ，孔子 所謂「吾無間焉」者。自餘治世盛王，有慘怛之愛，有忠利之敎，或知人善任，恭儉勤畏，亦各得聖賢之一體，孟軻 所謂「吾於武成 取二三策而已」。至于荒墜顚危，可見前車之失；亂賊姦宄，厥有履霜之漸。詩 云：「商鑑不遠，在夏后 之世。」故賜其書名曰「資治通鑑 」，以著朕之志焉耳。",
+      "html": "\r\n<span class=\"source-person\">荀卿</span>\r\n 有言：「欲觀聖人之迹，則於其粲然者矣，後王是也。」若夫<span class=\"source-place\">漢</span>\r\n 之<span class=\"source-person\">文</span>\r\n 、<span class=\"source-person\">宣</span>\r\n ，<span class=\"source-place\">唐</span>\r\n 之<span class=\"source-person\">太宗</span>\r\n ，<span class=\"source-person\">孔子</span>\r\n 所謂「吾無間焉」者。自餘治世盛王，有慘怛之愛，有忠利之敎，或知人善任，恭儉勤畏，亦各得聖賢之一體，<span class=\"source-person\">孟軻</span>\r\n 所謂「吾於<span class=\"source-book\">武成</span>\r\n 取二三策而已」。至于荒墜顚危，可見前車之失；亂賊姦宄，厥有履霜之漸。<span class=\"source-book\">詩</span>\r\n 云：「商鑑不遠，在<span class=\"source-person\">夏后</span>\r\n 之世。」故賜其書名曰「<span class=\"source-book\">資治通鑑</span>\r\n 」，以著朕之志焉耳。",
+      "notes": [],
+      "source": "text00006.html"
+    },
+    {
+      "id": "text00006-p00007",
+      "type": "commentary",
+      "className": "comment",
+      "text": "治平四年十月初開經筵，奉聖旨讀資治通鑑 。其月九日，臣光 初進讀，面賜御製序，令候書成日寫入。",
+      "html": "治平四年十月初開經筵，奉聖旨讀<span class=\"source-book\">資治通鑑</span>\r\n 。其月九日，臣<span class=\"source-person\">光</span>\r\n 初進讀，面賜御製序，令候書成日寫入。",
+      "notes": [],
+      "source": "text00006.html"
+    },
+    {
+      "id": "text00006-p00008",
+      "type": "p",
+      "className": "note3",
+      "text": "著雍閹茂正月丙戌電子版讎覆計脫文一",
+      "html": "著雍閹茂正月丙戌電子版讎覆計脫文一",
+      "notes": [],
+      "source": "text00006.html"
+    }
+  ]
+}

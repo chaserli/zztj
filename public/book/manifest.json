@@ -1,0 +1,2399 @@
+{
+  "title": "資治通鑑（典藏本）繁體豎排294卷全 胡三省註【毛泽东一生读了十七遍的资治通鉴版本！业内首次使用四种辅助线对全书近百万处人名、地名、书名进行区别标识！修正旧版错漏近一万三千处！权威注解！全网独家！阅读再升级！】 (Traditional_chinese Edition)",
+  "language": "zh-Hant",
+  "volumeCount": 294,
+  "volumes": [
+    {
+      "id": "001",
+      "ordinal": 1,
+      "title": "資治通鑑卷第一",
+      "source": "OEBPS/text00007.html",
+      "path": "/book/volumes/001.json",
+      "blockCount": 153
+    },
+    {
+      "id": "002",
+      "ordinal": 2,
+      "title": "資治通鑑卷第二",
+      "source": "OEBPS/text00008.html",
+      "path": "/book/volumes/002.json",
+      "blockCount": 159
+    },
+    {
+      "id": "003",
+      "ordinal": 3,
+      "title": "資治通鑑卷第三",
+      "source": "OEBPS/text00009.html",
+      "path": "/book/volumes/003.json",
+      "blockCount": 109
+    },
+    {
+      "id": "004",
+      "ordinal": 4,
+      "title": "資治通鑑卷第四",
+      "source": "OEBPS/text00010.html",
+      "path": "/book/volumes/004.json",
+      "blockCount": 115
+    },
+    {
+      "id": "005",
+      "ordinal": 5,
+      "title": "資治通鑑卷第五",
+      "source": "OEBPS/text00011.html",
+      "path": "/book/volumes/005.json",
+      "blockCount": 74
+    },
+    {
+      "id": "006",
+      "ordinal": 6,
+      "title": "資治通鑑卷第六",
+      "source": "OEBPS/text00012.html",
+      "path": "/book/volumes/006.json",
+      "blockCount": 138
+    },
+    {
+      "id": "007",
+      "ordinal": 7,
+      "title": "資治通鑑卷第七",
+      "source": "OEBPS/text00013.html",
+      "path": "/book/volumes/007.json",
+      "blockCount": 116
+    },
+    {
+      "id": "008",
+      "ordinal": 8,
+      "title": "資治通鑑卷第八",
+      "source": "OEBPS/text00014.html",
+      "path": "/book/volumes/008.json",
+      "blockCount": 80
+    },
+    {
+      "id": "009",
+      "ordinal": 9,
+      "title": "資治通鑑卷第九",
+      "source": "OEBPS/text00015.html",
+      "path": "/book/volumes/009.json",
+      "blockCount": 82
+    },
+    {
+      "id": "010",
+      "ordinal": 10,
+      "title": "資治通鑑卷第十",
+      "source": "OEBPS/text00016.html",
+      "path": "/book/volumes/010.json",
+      "blockCount": 62
+    },
+    {
+      "id": "011",
+      "ordinal": 11,
+      "title": "資治通鑑卷第十一",
+      "source": "OEBPS/text00017.html",
+      "path": "/book/volumes/011.json",
+      "blockCount": 83
+    },
+    {
+      "id": "012",
+      "ordinal": 12,
+      "title": "資治通鑑卷第十二",
+      "source": "OEBPS/text00018.html",
+      "path": "/book/volumes/012.json",
+      "blockCount": 132
+    },
+    {
+      "id": "013",
+      "ordinal": 13,
+      "title": "資治通鑑卷第十三",
+      "source": "OEBPS/text00019.html",
+      "path": "/book/volumes/013.json",
+      "blockCount": 127
+    },
+    {
+      "id": "014",
+      "ordinal": 14,
+      "title": "資治通鑑卷第十四",
+      "source": "OEBPS/text00020.html",
+      "path": "/book/volumes/014.json",
+      "blockCount": 77
+    },
+    {
+      "id": "015",
+      "ordinal": 15,
+      "title": "資治通鑑卷第十五",
+      "source": "OEBPS/text00021.html",
+      "path": "/book/volumes/015.json",
+      "blockCount": 110
+    },
+    {
+      "id": "016",
+      "ordinal": 16,
+      "title": "資治通鑑卷第十六",
+      "source": "OEBPS/text00022.html",
+      "path": "/book/volumes/016.json",
+      "blockCount": 139
+    },
+    {
+      "id": "017",
+      "ordinal": 17,
+      "title": "資治通鑑卷第十七",
+      "source": "OEBPS/text00023.html",
+      "path": "/book/volumes/017.json",
+      "blockCount": 88
+    },
+    {
+      "id": "018",
+      "ordinal": 18,
+      "title": "資治通鑑卷第十八",
+      "source": "OEBPS/text00024.html",
+      "path": "/book/volumes/018.json",
+      "blockCount": 102
+    },
+    {
+      "id": "019",
+      "ordinal": 19,
+      "title": "資治通鑑卷第十九",
+      "source": "OEBPS/text00025.html",
+      "path": "/book/volumes/019.json",
+      "blockCount": 95
+    },
+    {
+      "id": "020",
+      "ordinal": 20,
+      "title": "資治通鑑卷第二十",
+      "source": "OEBPS/text00026.html",
+      "path": "/book/volumes/020.json",
+      "blockCount": 103
+    },
+    {
+      "id": "021",
+      "ordinal": 21,
+      "title": "資治通鑑卷第二十一",
+      "source": "OEBPS/text00027.html",
+      "path": "/book/volumes/021.json",
+      "blockCount": 119
+    },
+    {
+      "id": "022",
+      "ordinal": 22,
+      "title": "資治通鑑卷第二十二",
+      "source": "OEBPS/text00028.html",
+      "path": "/book/volumes/022.json",
+      "blockCount": 106
+    },
+    {
+      "id": "023",
+      "ordinal": 23,
+      "title": "資治通鑑卷第二十三",
+      "source": "OEBPS/text00029.html",
+      "path": "/book/volumes/023.json",
+      "blockCount": 93
+    },
+    {
+      "id": "024",
+      "ordinal": 24,
+      "title": "資治通鑑卷第二十四",
+      "source": "OEBPS/text00030.html",
+      "path": "/book/volumes/024.json",
+      "blockCount": 86
+    },
+    {
+      "id": "025",
+      "ordinal": 25,
+      "title": "資治通鑑卷第二十五",
+      "source": "OEBPS/text00031.html",
+      "path": "/book/volumes/025.json",
+      "blockCount": 88
+    },
+    {
+      "id": "026",
+      "ordinal": 26,
+      "title": "資治通鑑卷第二十六",
+      "source": "OEBPS/text00032.html",
+      "path": "/book/volumes/026.json",
+      "blockCount": 52
+    },
+    {
+      "id": "027",
+      "ordinal": 27,
+      "title": "資治通鑑卷第二十七",
+      "source": "OEBPS/text00033.html",
+      "path": "/book/volumes/027.json",
+      "blockCount": 93
+    },
+    {
+      "id": "028",
+      "ordinal": 28,
+      "title": "資治通鑑卷第二十八",
+      "source": "OEBPS/text00034.html",
+      "path": "/book/volumes/028.json",
+      "blockCount": 82
+    },
+    {
+      "id": "029",
+      "ordinal": 29,
+      "title": "資治通鑑卷第二十九",
+      "source": "OEBPS/text00035.html",
+      "path": "/book/volumes/029.json",
+      "blockCount": 96
+    },
+    {
+      "id": "030",
+      "ordinal": 30,
+      "title": "資治通鑑卷第三十",
+      "source": "OEBPS/text00036.html",
+      "path": "/book/volumes/030.json",
+      "blockCount": 104
+    },
+    {
+      "id": "031",
+      "ordinal": 31,
+      "title": "資治通鑑卷第三十一",
+      "source": "OEBPS/text00037.html",
+      "path": "/book/volumes/031.json",
+      "blockCount": 102
+    },
+    {
+      "id": "032",
+      "ordinal": 32,
+      "title": "資治通鑑卷第三十二",
+      "source": "OEBPS/text00038.html",
+      "path": "/book/volumes/032.json",
+      "blockCount": 73
+    },
+    {
+      "id": "033",
+      "ordinal": 33,
+      "title": "資治通鑑卷第三十三",
+      "source": "OEBPS/text00039.html",
+      "path": "/book/volumes/033.json",
+      "blockCount": 66
+    },
+    {
+      "id": "034",
+      "ordinal": 34,
+      "title": "資治通鑑卷第三十四",
+      "source": "OEBPS/text00040.html",
+      "path": "/book/volumes/034.json",
+      "blockCount": 63
+    },
+    {
+      "id": "035",
+      "ordinal": 35,
+      "title": "資治通鑑卷第三十五",
+      "source": "OEBPS/text00041.html",
+      "path": "/book/volumes/035.json",
+      "blockCount": 81
+    },
+    {
+      "id": "036",
+      "ordinal": 36,
+      "title": "資治通鑑卷第三十六",
+      "source": "OEBPS/text00042.html",
+      "path": "/book/volumes/036.json",
+      "blockCount": 85
+    },
+    {
+      "id": "037",
+      "ordinal": 37,
+      "title": "資治通鑑卷第三十七",
+      "source": "OEBPS/text00043.html",
+      "path": "/book/volumes/037.json",
+      "blockCount": 92
+    },
+    {
+      "id": "038",
+      "ordinal": 38,
+      "title": "資治通鑑卷第三十八",
+      "source": "OEBPS/text00044.html",
+      "path": "/book/volumes/038.json",
+      "blockCount": 95
+    },
+    {
+      "id": "039",
+      "ordinal": 39,
+      "title": "資治通鑑卷第三十九",
+      "source": "OEBPS/text00045.html",
+      "path": "/book/volumes/039.json",
+      "blockCount": 86
+    },
+    {
+      "id": "040",
+      "ordinal": 40,
+      "title": "資治通鑑卷第四十",
+      "source": "OEBPS/text00046.html",
+      "path": "/book/volumes/040.json",
+      "blockCount": 104
+    },
+    {
+      "id": "041",
+      "ordinal": 41,
+      "title": "資治通鑑卷第四十一",
+      "source": "OEBPS/text00047.html",
+      "path": "/book/volumes/041.json",
+      "blockCount": 105
+    },
+    {
+      "id": "042",
+      "ordinal": 42,
+      "title": "資治通鑑卷第四十二",
+      "source": "OEBPS/text00048.html",
+      "path": "/book/volumes/042.json",
+      "blockCount": 114
+    },
+    {
+      "id": "043",
+      "ordinal": 43,
+      "title": "資治通鑑卷第四十三",
+      "source": "OEBPS/text00049.html",
+      "path": "/book/volumes/043.json",
+      "blockCount": 140
+    },
+    {
+      "id": "044",
+      "ordinal": 44,
+      "title": "資治通鑑卷第四十四",
+      "source": "OEBPS/text00050.html",
+      "path": "/book/volumes/044.json",
+      "blockCount": 140
+    },
+    {
+      "id": "045",
+      "ordinal": 45,
+      "title": "資治通鑑卷第四十五",
+      "source": "OEBPS/text00051.html",
+      "path": "/book/volumes/045.json",
+      "blockCount": 116
+    },
+    {
+      "id": "046",
+      "ordinal": 46,
+      "title": "資治通鑑卷第四十六",
+      "source": "OEBPS/text00052.html",
+      "path": "/book/volumes/046.json",
+      "blockCount": 105
+    },
+    {
+      "id": "047",
+      "ordinal": 47,
+      "title": "資治通鑑卷第四十七",
+      "source": "OEBPS/text00053.html",
+      "path": "/book/volumes/047.json",
+      "blockCount": 97
+    },
+    {
+      "id": "048",
+      "ordinal": 48,
+      "title": "資治通鑑卷第四十八",
+      "source": "OEBPS/text00054.html",
+      "path": "/book/volumes/048.json",
+      "blockCount": 148
+    },
+    {
+      "id": "049",
+      "ordinal": 49,
+      "title": "資治通鑑卷第四十九",
+      "source": "OEBPS/text00055.html",
+      "path": "/book/volumes/049.json",
+      "blockCount": 172
+    },
+    {
+      "id": "050",
+      "ordinal": 50,
+      "title": "資治通鑑卷第五十",
+      "source": "OEBPS/text00056.html",
+      "path": "/book/volumes/050.json",
+      "blockCount": 163
+    },
+    {
+      "id": "051",
+      "ordinal": 51,
+      "title": "資治通鑑卷第五十一",
+      "source": "OEBPS/text00057.html",
+      "path": "/book/volumes/051.json",
+      "blockCount": 139
+    },
+    {
+      "id": "052",
+      "ordinal": 52,
+      "title": "資治通鑑卷第五十二",
+      "source": "OEBPS/text00058.html",
+      "path": "/book/volumes/052.json",
+      "blockCount": 147
+    },
+    {
+      "id": "053",
+      "ordinal": 53,
+      "title": "資治通鑑卷第五十三",
+      "source": "OEBPS/text00059.html",
+      "path": "/book/volumes/053.json",
+      "blockCount": 130
+    },
+    {
+      "id": "054",
+      "ordinal": 54,
+      "title": "資治通鑑卷第五十四",
+      "source": "OEBPS/text00060.html",
+      "path": "/book/volumes/054.json",
+      "blockCount": 124
+    },
+    {
+      "id": "055",
+      "ordinal": 55,
+      "title": "資治通鑑卷第五十五",
+      "source": "OEBPS/text00061.html",
+      "path": "/book/volumes/055.json",
+      "blockCount": 80
+    },
+    {
+      "id": "056",
+      "ordinal": 56,
+      "title": "資治通鑑卷第五十六",
+      "source": "OEBPS/text00062.html",
+      "path": "/book/volumes/056.json",
+      "blockCount": 103
+    },
+    {
+      "id": "057",
+      "ordinal": 57,
+      "title": "資治通鑑卷第五十七",
+      "source": "OEBPS/text00063.html",
+      "path": "/book/volumes/057.json",
+      "blockCount": 143
+    },
+    {
+      "id": "058",
+      "ordinal": 58,
+      "title": "資治通鑑卷第五十八",
+      "source": "OEBPS/text00064.html",
+      "path": "/book/volumes/058.json",
+      "blockCount": 130
+    },
+    {
+      "id": "059",
+      "ordinal": 59,
+      "title": "資治通鑑卷第五十九",
+      "source": "OEBPS/text00065.html",
+      "path": "/book/volumes/059.json",
+      "blockCount": 109
+    },
+    {
+      "id": "060",
+      "ordinal": 60,
+      "title": "資治通鑑卷第六十",
+      "source": "OEBPS/text00066.html",
+      "path": "/book/volumes/060.json",
+      "blockCount": 104
+    },
+    {
+      "id": "061",
+      "ordinal": 61,
+      "title": "資治通鑑卷第六十一",
+      "source": "OEBPS/text00067.html",
+      "path": "/book/volumes/061.json",
+      "blockCount": 99
+    },
+    {
+      "id": "062",
+      "ordinal": 62,
+      "title": "資治通鑑卷第六十二",
+      "source": "OEBPS/text00068.html",
+      "path": "/book/volumes/062.json",
+      "blockCount": 94
+    },
+    {
+      "id": "063",
+      "ordinal": 63,
+      "title": "資治通鑑卷第六十三",
+      "source": "OEBPS/text00069.html",
+      "path": "/book/volumes/063.json",
+      "blockCount": 84
+    },
+    {
+      "id": "064",
+      "ordinal": 64,
+      "title": "資治通鑑卷第六十四",
+      "source": "OEBPS/text00070.html",
+      "path": "/book/volumes/064.json",
+      "blockCount": 76
+    },
+    {
+      "id": "065",
+      "ordinal": 65,
+      "title": "資治通鑑卷第六十五",
+      "source": "OEBPS/text00071.html",
+      "path": "/book/volumes/065.json",
+      "blockCount": 85
+    },
+    {
+      "id": "066",
+      "ordinal": 66,
+      "title": "資治通鑑卷第六十六",
+      "source": "OEBPS/text00072.html",
+      "path": "/book/volumes/066.json",
+      "blockCount": 91
+    },
+    {
+      "id": "067",
+      "ordinal": 67,
+      "title": "資治通鑑卷第六十七",
+      "source": "OEBPS/text00073.html",
+      "path": "/book/volumes/067.json",
+      "blockCount": 66
+    },
+    {
+      "id": "068",
+      "ordinal": 68,
+      "title": "資治通鑑卷第六十八",
+      "source": "OEBPS/text00074.html",
+      "path": "/book/volumes/068.json",
+      "blockCount": 75
+    },
+    {
+      "id": "069",
+      "ordinal": 69,
+      "title": "資治通鑑卷第六十九",
+      "source": "OEBPS/text00075.html",
+      "path": "/book/volumes/069.json",
+      "blockCount": 111
+    },
+    {
+      "id": "070",
+      "ordinal": 70,
+      "title": "資治通鑑卷第七十",
+      "source": "OEBPS/text00076.html",
+      "path": "/book/volumes/070.json",
+      "blockCount": 101
+    },
+    {
+      "id": "071",
+      "ordinal": 71,
+      "title": "資治通鑑卷第七十一",
+      "source": "OEBPS/text00077.html",
+      "path": "/book/volumes/071.json",
+      "blockCount": 74
+    },
+    {
+      "id": "072",
+      "ordinal": 72,
+      "title": "資治通鑑卷第七十二",
+      "source": "OEBPS/text00078.html",
+      "path": "/book/volumes/072.json",
+      "blockCount": 105
+    },
+    {
+      "id": "073",
+      "ordinal": 73,
+      "title": "資治通鑑卷第七十三",
+      "source": "OEBPS/text00079.html",
+      "path": "/book/volumes/073.json",
+      "blockCount": 84
+    },
+    {
+      "id": "074",
+      "ordinal": 74,
+      "title": "資治通鑑卷第七十四",
+      "source": "OEBPS/text00080.html",
+      "path": "/book/volumes/074.json",
+      "blockCount": 126
+    },
+    {
+      "id": "075",
+      "ordinal": 75,
+      "title": "資治通鑑卷第七十五",
+      "source": "OEBPS/text00081.html",
+      "path": "/book/volumes/075.json",
+      "blockCount": 116
+    },
+    {
+      "id": "076",
+      "ordinal": 76,
+      "title": "資治通鑑卷第七十六",
+      "source": "OEBPS/text00082.html",
+      "path": "/book/volumes/076.json",
+      "blockCount": 74
+    },
+    {
+      "id": "077",
+      "ordinal": 77,
+      "title": "資治通鑑卷第七十七",
+      "source": "OEBPS/text00083.html",
+      "path": "/book/volumes/077.json",
+      "blockCount": 92
+    },
+    {
+      "id": "078",
+      "ordinal": 78,
+      "title": "資治通鑑卷第七十八",
+      "source": "OEBPS/text00084.html",
+      "path": "/book/volumes/078.json",
+      "blockCount": 88
+    },
+    {
+      "id": "079",
+      "ordinal": 79,
+      "title": "資治通鑑卷第七十九",
+      "source": "OEBPS/text00085.html",
+      "path": "/book/volumes/079.json",
+      "blockCount": 159
+    },
+    {
+      "id": "080",
+      "ordinal": 80,
+      "title": "資治通鑑卷第八十",
+      "source": "OEBPS/text00086.html",
+      "path": "/book/volumes/080.json",
+      "blockCount": 115
+    },
+    {
+      "id": "081",
+      "ordinal": 81,
+      "title": "資治通鑑卷第八十一",
+      "source": "OEBPS/text00087.html",
+      "path": "/book/volumes/081.json",
+      "blockCount": 110
+    },
+    {
+      "id": "082",
+      "ordinal": 82,
+      "title": "資治通鑑卷第八十二",
+      "source": "OEBPS/text00088.html",
+      "path": "/book/volumes/082.json",
+      "blockCount": 116
+    },
+    {
+      "id": "083",
+      "ordinal": 83,
+      "title": "資治通鑑卷第八十三",
+      "source": "OEBPS/text00089.html",
+      "path": "/book/volumes/083.json",
+      "blockCount": 71
+    },
+    {
+      "id": "084",
+      "ordinal": 84,
+      "title": "資治通鑑卷第八十四",
+      "source": "OEBPS/text00090.html",
+      "path": "/book/volumes/084.json",
+      "blockCount": 77
+    },
+    {
+      "id": "085",
+      "ordinal": 85,
+      "title": "資治通鑑卷第八十五",
+      "source": "OEBPS/text00091.html",
+      "path": "/book/volumes/085.json",
+      "blockCount": 80
+    },
+    {
+      "id": "086",
+      "ordinal": 86,
+      "title": "資治通鑑卷第八十六",
+      "source": "OEBPS/text00092.html",
+      "path": "/book/volumes/086.json",
+      "blockCount": 124
+    },
+    {
+      "id": "087",
+      "ordinal": 87,
+      "title": "資治通鑑卷第八十七",
+      "source": "OEBPS/text00093.html",
+      "path": "/book/volumes/087.json",
+      "blockCount": 120
+    },
+    {
+      "id": "088",
+      "ordinal": 88,
+      "title": "資治通鑑卷第八十八",
+      "source": "OEBPS/text00094.html",
+      "path": "/book/volumes/088.json",
+      "blockCount": 104
+    },
+    {
+      "id": "089",
+      "ordinal": 89,
+      "title": "資治通鑑卷第八十九",
+      "source": "OEBPS/text00095.html",
+      "path": "/book/volumes/089.json",
+      "blockCount": 109
+    },
+    {
+      "id": "090",
+      "ordinal": 90,
+      "title": "資治通鑑卷第九十",
+      "source": "OEBPS/text00096.html",
+      "path": "/book/volumes/090.json",
+      "blockCount": 87
+    },
+    {
+      "id": "091",
+      "ordinal": 91,
+      "title": "資治通鑑卷第九十一",
+      "source": "OEBPS/text00097.html",
+      "path": "/book/volumes/091.json",
+      "blockCount": 91
+    },
+    {
+      "id": "092",
+      "ordinal": 92,
+      "title": "資治通鑑卷第九十二",
+      "source": "OEBPS/text00098.html",
+      "path": "/book/volumes/092.json",
+      "blockCount": 91
+    },
+    {
+      "id": "093",
+      "ordinal": 93,
+      "title": "資治通鑑卷第九十三",
+      "source": "OEBPS/text00099.html",
+      "path": "/book/volumes/093.json",
+      "blockCount": 102
+    },
+    {
+      "id": "094",
+      "ordinal": 94,
+      "title": "資治通鑑卷第九十四",
+      "source": "OEBPS/text00100.html",
+      "path": "/book/volumes/094.json",
+      "blockCount": 113
+    },
+    {
+      "id": "095",
+      "ordinal": 95,
+      "title": "資治通鑑卷第九十五",
+      "source": "OEBPS/text00101.html",
+      "path": "/book/volumes/095.json",
+      "blockCount": 125
+    },
+    {
+      "id": "096",
+      "ordinal": 96,
+      "title": "資治通鑑卷第九十六",
+      "source": "OEBPS/text00102.html",
+      "path": "/book/volumes/096.json",
+      "blockCount": 125
+    },
+    {
+      "id": "097",
+      "ordinal": 97,
+      "title": "資治通鑑卷第九十七",
+      "source": "OEBPS/text00103.html",
+      "path": "/book/volumes/097.json",
+      "blockCount": 126
+    },
+    {
+      "id": "098",
+      "ordinal": 98,
+      "title": "資治通鑑卷第九十八",
+      "source": "OEBPS/text00104.html",
+      "path": "/book/volumes/098.json",
+      "blockCount": 99
+    },
+    {
+      "id": "099",
+      "ordinal": 99,
+      "title": "資治通鑑卷第九十九",
+      "source": "OEBPS/text00105.html",
+      "path": "/book/volumes/099.json",
+      "blockCount": 146
+    },
+    {
+      "id": "100",
+      "ordinal": 100,
+      "title": "資治通鑑卷第一百",
+      "source": "OEBPS/text00106.html",
+      "path": "/book/volumes/100.json",
+      "blockCount": 134
+    },
+    {
+      "id": "101",
+      "ordinal": 101,
+      "title": "資治通鑑卷第一百一",
+      "source": "OEBPS/text00107.html",
+      "path": "/book/volumes/101.json",
+      "blockCount": 170
+    },
+    {
+      "id": "102",
+      "ordinal": 102,
+      "title": "資治通鑑卷第一百二",
+      "source": "OEBPS/text00108.html",
+      "path": "/book/volumes/102.json",
+      "blockCount": 85
+    },
+    {
+      "id": "103",
+      "ordinal": 103,
+      "title": "資治通鑑卷第一百三",
+      "source": "OEBPS/text00109.html",
+      "path": "/book/volumes/103.json",
+      "blockCount": 106
+    },
+    {
+      "id": "104",
+      "ordinal": 104,
+      "title": "資治通鑑卷第一百四",
+      "source": "OEBPS/text00110.html",
+      "path": "/book/volumes/104.json",
+      "blockCount": 129
+    },
+    {
+      "id": "105",
+      "ordinal": 105,
+      "title": "資治通鑑卷第一百五",
+      "source": "OEBPS/text00111.html",
+      "path": "/book/volumes/105.json",
+      "blockCount": 112
+    },
+    {
+      "id": "106",
+      "ordinal": 106,
+      "title": "資治通鑑卷第一百六",
+      "source": "OEBPS/text00112.html",
+      "path": "/book/volumes/106.json",
+      "blockCount": 139
+    },
+    {
+      "id": "107",
+      "ordinal": 107,
+      "title": "資治通鑑卷第一百七",
+      "source": "OEBPS/text00113.html",
+      "path": "/book/volumes/107.json",
+      "blockCount": 147
+    },
+    {
+      "id": "108",
+      "ordinal": 108,
+      "title": "資治通鑑卷第一百八",
+      "source": "OEBPS/text00114.html",
+      "path": "/book/volumes/108.json",
+      "blockCount": 144
+    },
+    {
+      "id": "109",
+      "ordinal": 109,
+      "title": "資治通鑑卷第一百九",
+      "source": "OEBPS/text00115.html",
+      "path": "/book/volumes/109.json",
+      "blockCount": 85
+    },
+    {
+      "id": "110",
+      "ordinal": 110,
+      "title": "資治通鑑卷第一百一十",
+      "source": "OEBPS/text00116.html",
+      "path": "/book/volumes/110.json",
+      "blockCount": 83
+    },
+    {
+      "id": "111",
+      "ordinal": 111,
+      "title": "資治通鑑卷第一百一十一",
+      "source": "OEBPS/text00117.html",
+      "path": "/book/volumes/111.json",
+      "blockCount": 129
+    },
+    {
+      "id": "112",
+      "ordinal": 112,
+      "title": "資治通鑑卷第一百一十二",
+      "source": "OEBPS/text00118.html",
+      "path": "/book/volumes/112.json",
+      "blockCount": 115
+    },
+    {
+      "id": "113",
+      "ordinal": 113,
+      "title": "資治通鑑卷第一百一十三",
+      "source": "OEBPS/text00119.html",
+      "path": "/book/volumes/113.json",
+      "blockCount": 124
+    },
+    {
+      "id": "114",
+      "ordinal": 114,
+      "title": "資治通鑑卷第一百一十四",
+      "source": "OEBPS/text00120.html",
+      "path": "/book/volumes/114.json",
+      "blockCount": 148
+    },
+    {
+      "id": "115",
+      "ordinal": 115,
+      "title": "資治通鑑卷第一百一十五",
+      "source": "OEBPS/text00121.html",
+      "path": "/book/volumes/115.json",
+      "blockCount": 105
+    },
+    {
+      "id": "116",
+      "ordinal": 116,
+      "title": "資治通鑑卷第一百一十六",
+      "source": "OEBPS/text00122.html",
+      "path": "/book/volumes/116.json",
+      "blockCount": 147
+    },
+    {
+      "id": "117",
+      "ordinal": 117,
+      "title": "資治通鑑卷第一百一十七",
+      "source": "OEBPS/text00123.html",
+      "path": "/book/volumes/117.json",
+      "blockCount": 93
+    },
+    {
+      "id": "118",
+      "ordinal": 118,
+      "title": "資治通鑑卷第一百一十八",
+      "source": "OEBPS/text00124.html",
+      "path": "/book/volumes/118.json",
+      "blockCount": 132
+    },
+    {
+      "id": "119",
+      "ordinal": 119,
+      "title": "資治通鑑卷第一百一十九",
+      "source": "OEBPS/text00125.html",
+      "path": "/book/volumes/119.json",
+      "blockCount": 163
+    },
+    {
+      "id": "120",
+      "ordinal": 120,
+      "title": "資治通鑑卷第一百二十",
+      "source": "OEBPS/text00126.html",
+      "path": "/book/volumes/120.json",
+      "blockCount": 154
+    },
+    {
+      "id": "121",
+      "ordinal": 121,
+      "title": "資治通鑑卷第一百二十一",
+      "source": "OEBPS/text00127.html",
+      "path": "/book/volumes/121.json",
+      "blockCount": 149
+    },
+    {
+      "id": "122",
+      "ordinal": 122,
+      "title": "資治通鑑卷第一百二十二",
+      "source": "OEBPS/text00128.html",
+      "path": "/book/volumes/122.json",
+      "blockCount": 177
+    },
+    {
+      "id": "123",
+      "ordinal": 123,
+      "title": "資治通鑑卷第一百二十三",
+      "source": "OEBPS/text00129.html",
+      "path": "/book/volumes/123.json",
+      "blockCount": 160
+    },
+    {
+      "id": "124",
+      "ordinal": 124,
+      "title": "資治通鑑卷第一百二十四",
+      "source": "OEBPS/text00130.html",
+      "path": "/book/volumes/124.json",
+      "blockCount": 144
+    },
+    {
+      "id": "125",
+      "ordinal": 125,
+      "title": "資治通鑑卷第一百二十五",
+      "source": "OEBPS/text00131.html",
+      "path": "/book/volumes/125.json",
+      "blockCount": 121
+    },
+    {
+      "id": "126",
+      "ordinal": 126,
+      "title": "資治通鑑卷第一百二十六",
+      "source": "OEBPS/text00132.html",
+      "path": "/book/volumes/126.json",
+      "blockCount": 89
+    },
+    {
+      "id": "127",
+      "ordinal": 127,
+      "title": "資治通鑑卷第一百二十七",
+      "source": "OEBPS/text00133.html",
+      "path": "/book/volumes/127.json",
+      "blockCount": 76
+    },
+    {
+      "id": "128",
+      "ordinal": 128,
+      "title": "資治通鑑卷第一百二十八",
+      "source": "OEBPS/text00134.html",
+      "path": "/book/volumes/128.json",
+      "blockCount": 131
+    },
+    {
+      "id": "129",
+      "ordinal": 129,
+      "title": "資治通鑑卷第一百二十九",
+      "source": "OEBPS/text00135.html",
+      "path": "/book/volumes/129.json",
+      "blockCount": 170
+    },
+    {
+      "id": "130",
+      "ordinal": 130,
+      "title": "資治通鑑卷第一百三十",
+      "source": "OEBPS/text00136.html",
+      "path": "/book/volumes/130.json",
+      "blockCount": 80
+    },
+    {
+      "id": "131",
+      "ordinal": 131,
+      "title": "資治通鑑卷第一百三十一",
+      "source": "OEBPS/text00137.html",
+      "path": "/book/volumes/131.json",
+      "blockCount": 120
+    },
+    {
+      "id": "132",
+      "ordinal": 132,
+      "title": "資治通鑑卷第一百三十二",
+      "source": "OEBPS/text00138.html",
+      "path": "/book/volumes/132.json",
+      "blockCount": 117
+    },
+    {
+      "id": "133",
+      "ordinal": 133,
+      "title": "資治通鑑卷第一百三十三",
+      "source": "OEBPS/text00139.html",
+      "path": "/book/volumes/133.json",
+      "blockCount": 143
+    },
+    {
+      "id": "134",
+      "ordinal": 134,
+      "title": "資治通鑑卷第一百三十四",
+      "source": "OEBPS/text00140.html",
+      "path": "/book/volumes/134.json",
+      "blockCount": 135
+    },
+    {
+      "id": "135",
+      "ordinal": 135,
+      "title": "資治通鑑卷第一百三十五",
+      "source": "OEBPS/text00141.html",
+      "path": "/book/volumes/135.json",
+      "blockCount": 194
+    },
+    {
+      "id": "136",
+      "ordinal": 136,
+      "title": "資治通鑑卷第一百三十六",
+      "source": "OEBPS/text00142.html",
+      "path": "/book/volumes/136.json",
+      "blockCount": 148
+    },
+    {
+      "id": "137",
+      "ordinal": 137,
+      "title": "資治通鑑卷第一百三十七",
+      "source": "OEBPS/text00143.html",
+      "path": "/book/volumes/137.json",
+      "blockCount": 116
+    },
+    {
+      "id": "138",
+      "ordinal": 138,
+      "title": "資治通鑑卷第一百三十八",
+      "source": "OEBPS/text00144.html",
+      "path": "/book/volumes/138.json",
+      "blockCount": 73
+    },
+    {
+      "id": "139",
+      "ordinal": 139,
+      "title": "資治通鑑卷第一百三十九",
+      "source": "OEBPS/text00145.html",
+      "path": "/book/volumes/139.json",
+      "blockCount": 115
+    },
+    {
+      "id": "140",
+      "ordinal": 140,
+      "title": "資治通鑑卷第一百四十",
+      "source": "OEBPS/text00146.html",
+      "path": "/book/volumes/140.json",
+      "blockCount": 100
+    },
+    {
+      "id": "141",
+      "ordinal": 141,
+      "title": "資治通鑑卷第一百四十一",
+      "source": "OEBPS/text00147.html",
+      "path": "/book/volumes/141.json",
+      "blockCount": 95
+    },
+    {
+      "id": "142",
+      "ordinal": 142,
+      "title": "資治通鑑卷第一百四十二",
+      "source": "OEBPS/text00148.html",
+      "path": "/book/volumes/142.json",
+      "blockCount": 70
+    },
+    {
+      "id": "143",
+      "ordinal": 143,
+      "title": "資治通鑑卷第一百四十三",
+      "source": "OEBPS/text00149.html",
+      "path": "/book/volumes/143.json",
+      "blockCount": 66
+    },
+    {
+      "id": "144",
+      "ordinal": 144,
+      "title": "資治通鑑卷第一百四十四",
+      "source": "OEBPS/text00150.html",
+      "path": "/book/volumes/144.json",
+      "blockCount": 79
+    },
+    {
+      "id": "145",
+      "ordinal": 145,
+      "title": "資治通鑑卷第一百四十五",
+      "source": "OEBPS/text00151.html",
+      "path": "/book/volumes/145.json",
+      "blockCount": 136
+    },
+    {
+      "id": "146",
+      "ordinal": 146,
+      "title": "資治通鑑卷第一百四十六",
+      "source": "OEBPS/text00152.html",
+      "path": "/book/volumes/146.json",
+      "blockCount": 120
+    },
+    {
+      "id": "147",
+      "ordinal": 147,
+      "title": "資治通鑑卷第一百四十七",
+      "source": "OEBPS/text00153.html",
+      "path": "/book/volumes/147.json",
+      "blockCount": 129
+    },
+    {
+      "id": "148",
+      "ordinal": 148,
+      "title": "資治通鑑卷第一百四十八",
+      "source": "OEBPS/text00154.html",
+      "path": "/book/volumes/148.json",
+      "blockCount": 125
+    },
+    {
+      "id": "149",
+      "ordinal": 149,
+      "title": "資治通鑑卷第一百四十九",
+      "source": "OEBPS/text00155.html",
+      "path": "/book/volumes/149.json",
+      "blockCount": 112
+    },
+    {
+      "id": "150",
+      "ordinal": 150,
+      "title": "資治通鑑卷第一百五十",
+      "source": "OEBPS/text00156.html",
+      "path": "/book/volumes/150.json",
+      "blockCount": 117
+    },
+    {
+      "id": "151",
+      "ordinal": 151,
+      "title": "資治通鑑卷第一百五十一",
+      "source": "OEBPS/text00157.html",
+      "path": "/book/volumes/151.json",
+      "blockCount": 101
+    },
+    {
+      "id": "152",
+      "ordinal": 152,
+      "title": "資治通鑑卷第一百五十二",
+      "source": "OEBPS/text00158.html",
+      "path": "/book/volumes/152.json",
+      "blockCount": 75
+    },
+    {
+      "id": "153",
+      "ordinal": 153,
+      "title": "資治通鑑卷第一百五十三",
+      "source": "OEBPS/text00159.html",
+      "path": "/book/volumes/153.json",
+      "blockCount": 62
+    },
+    {
+      "id": "154",
+      "ordinal": 154,
+      "title": "資治通鑑卷第一百五十四",
+      "source": "OEBPS/text00160.html",
+      "path": "/book/volumes/154.json",
+      "blockCount": 77
+    },
+    {
+      "id": "155",
+      "ordinal": 155,
+      "title": "資治通鑑卷第一百五十五",
+      "source": "OEBPS/text00161.html",
+      "path": "/book/volumes/155.json",
+      "blockCount": 108
+    },
+    {
+      "id": "156",
+      "ordinal": 156,
+      "title": "資治通鑑卷第一百五十六",
+      "source": "OEBPS/text00162.html",
+      "path": "/book/volumes/156.json",
+      "blockCount": 100
+    },
+    {
+      "id": "157",
+      "ordinal": 157,
+      "title": "資治通鑑卷第一百五十七",
+      "source": "OEBPS/text00163.html",
+      "path": "/book/volumes/157.json",
+      "blockCount": 134
+    },
+    {
+      "id": "158",
+      "ordinal": 158,
+      "title": "資治通鑑卷第一百五十八",
+      "source": "OEBPS/text00164.html",
+      "path": "/book/volumes/158.json",
+      "blockCount": 168
+    },
+    {
+      "id": "159",
+      "ordinal": 159,
+      "title": "資治通鑑卷第一百五十九",
+      "source": "OEBPS/text00165.html",
+      "path": "/book/volumes/159.json",
+      "blockCount": 61
+    },
+    {
+      "id": "160",
+      "ordinal": 160,
+      "title": "資治通鑑卷第一百六十",
+      "source": "OEBPS/text00166.html",
+      "path": "/book/volumes/160.json",
+      "blockCount": 75
+    },
+    {
+      "id": "161",
+      "ordinal": 161,
+      "title": "資治通鑑卷第一百六十一",
+      "source": "OEBPS/text00167.html",
+      "path": "/book/volumes/161.json",
+      "blockCount": 89
+    },
+    {
+      "id": "162",
+      "ordinal": 162,
+      "title": "資治通鑑卷第一百六十二",
+      "source": "OEBPS/text00168.html",
+      "path": "/book/volumes/162.json",
+      "blockCount": 108
+    },
+    {
+      "id": "163",
+      "ordinal": 163,
+      "title": "資治通鑑卷第一百六十三",
+      "source": "OEBPS/text00169.html",
+      "path": "/book/volumes/163.json",
+      "blockCount": 108
+    },
+    {
+      "id": "164",
+      "ordinal": 164,
+      "title": "資治通鑑卷第一百六十四",
+      "source": "OEBPS/text00170.html",
+      "path": "/book/volumes/164.json",
+      "blockCount": 133
+    },
+    {
+      "id": "165",
+      "ordinal": 165,
+      "title": "資治通鑑卷第一百六十五",
+      "source": "OEBPS/text00171.html",
+      "path": "/book/volumes/165.json",
+      "blockCount": 106
+    },
+    {
+      "id": "166",
+      "ordinal": 166,
+      "title": "資治通鑑卷第一百六十六",
+      "source": "OEBPS/text00172.html",
+      "path": "/book/volumes/166.json",
+      "blockCount": 118
+    },
+    {
+      "id": "167",
+      "ordinal": 167,
+      "title": "資治通鑑卷第一百六十七",
+      "source": "OEBPS/text00173.html",
+      "path": "/book/volumes/167.json",
+      "blockCount": 165
+    },
+    {
+      "id": "168",
+      "ordinal": 168,
+      "title": "資治通鑑卷第一百六十八",
+      "source": "OEBPS/text00174.html",
+      "path": "/book/volumes/168.json",
+      "blockCount": 169
+    },
+    {
+      "id": "169",
+      "ordinal": 169,
+      "title": "資治通鑑卷第一百六十九",
+      "source": "OEBPS/text00175.html",
+      "path": "/book/volumes/169.json",
+      "blockCount": 171
+    },
+    {
+      "id": "170",
+      "ordinal": 170,
+      "title": "資治通鑑卷第一百七十",
+      "source": "OEBPS/text00176.html",
+      "path": "/book/volumes/170.json",
+      "blockCount": 214
+    },
+    {
+      "id": "171",
+      "ordinal": 171,
+      "title": "資治通鑑卷第一百七十一",
+      "source": "OEBPS/text00177.html",
+      "path": "/book/volumes/171.json",
+      "blockCount": 170
+    },
+    {
+      "id": "172",
+      "ordinal": 172,
+      "title": "資治通鑑卷第一百七十二",
+      "source": "OEBPS/text00178.html",
+      "path": "/book/volumes/172.json",
+      "blockCount": 118
+    },
+    {
+      "id": "173",
+      "ordinal": 173,
+      "title": "資治通鑑卷第一百七十三",
+      "source": "OEBPS/text00179.html",
+      "path": "/book/volumes/173.json",
+      "blockCount": 158
+    },
+    {
+      "id": "174",
+      "ordinal": 174,
+      "title": "資治通鑑卷第一百七十四",
+      "source": "OEBPS/text00180.html",
+      "path": "/book/volumes/174.json",
+      "blockCount": 90
+    },
+    {
+      "id": "175",
+      "ordinal": 175,
+      "title": "資治通鑑卷第一百七十五",
+      "source": "OEBPS/text00181.html",
+      "path": "/book/volumes/175.json",
+      "blockCount": 154
+    },
+    {
+      "id": "176",
+      "ordinal": 176,
+      "title": "資治通鑑卷第一百七十六",
+      "source": "OEBPS/text00182.html",
+      "path": "/book/volumes/176.json",
+      "blockCount": 151
+    },
+    {
+      "id": "177",
+      "ordinal": 177,
+      "title": "資治通鑑卷第一百七十七",
+      "source": "OEBPS/text00183.html",
+      "path": "/book/volumes/177.json",
+      "blockCount": 97
+    },
+    {
+      "id": "178",
+      "ordinal": 178,
+      "title": "資治通鑑卷第一百七十八",
+      "source": "OEBPS/text00184.html",
+      "path": "/book/volumes/178.json",
+      "blockCount": 125
+    },
+    {
+      "id": "179",
+      "ordinal": 179,
+      "title": "資治通鑑卷第一百七十九",
+      "source": "OEBPS/text00185.html",
+      "path": "/book/volumes/179.json",
+      "blockCount": 98
+    },
+    {
+      "id": "180",
+      "ordinal": 180,
+      "title": "資治通鑑卷第一百八十",
+      "source": "OEBPS/text00186.html",
+      "path": "/book/volumes/180.json",
+      "blockCount": 97
+    },
+    {
+      "id": "181",
+      "ordinal": 181,
+      "title": "資治通鑑卷第一百八十一",
+      "source": "OEBPS/text00187.html",
+      "path": "/book/volumes/181.json",
+      "blockCount": 95
+    },
+    {
+      "id": "182",
+      "ordinal": 182,
+      "title": "資治通鑑卷第一百八十二",
+      "source": "OEBPS/text00188.html",
+      "path": "/book/volumes/182.json",
+      "blockCount": 107
+    },
+    {
+      "id": "183",
+      "ordinal": 183,
+      "title": "資治通鑑卷第一百八十三",
+      "source": "OEBPS/text00189.html",
+      "path": "/book/volumes/183.json",
+      "blockCount": 84
+    },
+    {
+      "id": "184",
+      "ordinal": 184,
+      "title": "資治通鑑卷第一百八十四",
+      "source": "OEBPS/text00190.html",
+      "path": "/book/volumes/184.json",
+      "blockCount": 76
+    },
+    {
+      "id": "185",
+      "ordinal": 185,
+      "title": "資治通鑑卷第一百八十五",
+      "source": "OEBPS/text00191.html",
+      "path": "/book/volumes/185.json",
+      "blockCount": 83
+    },
+    {
+      "id": "186",
+      "ordinal": 186,
+      "title": "資治通鑑卷第一百八十六",
+      "source": "OEBPS/text00192.html",
+      "path": "/book/volumes/186.json",
+      "blockCount": 88
+    },
+    {
+      "id": "187",
+      "ordinal": 187,
+      "title": "資治通鑑卷第一百八十七",
+      "source": "OEBPS/text00193.html",
+      "path": "/book/volumes/187.json",
+      "blockCount": 123
+    },
+    {
+      "id": "188",
+      "ordinal": 188,
+      "title": "資治通鑑卷第一百八十八",
+      "source": "OEBPS/text00194.html",
+      "path": "/book/volumes/188.json",
+      "blockCount": 138
+    },
+    {
+      "id": "189",
+      "ordinal": 189,
+      "title": "資治通鑑卷第一百八十九",
+      "source": "OEBPS/text00195.html",
+      "path": "/book/volumes/189.json",
+      "blockCount": 118
+    },
+    {
+      "id": "190",
+      "ordinal": 190,
+      "title": "資治通鑑卷第一百九十",
+      "source": "OEBPS/text00196.html",
+      "path": "/book/volumes/190.json",
+      "blockCount": 182
+    },
+    {
+      "id": "191",
+      "ordinal": 191,
+      "title": "資治通鑑卷第一百九十一",
+      "source": "OEBPS/text00197.html",
+      "path": "/book/volumes/191.json",
+      "blockCount": 161
+    },
+    {
+      "id": "192",
+      "ordinal": 192,
+      "title": "資治通鑑卷第一百九十二",
+      "source": "OEBPS/text00198.html",
+      "path": "/book/volumes/192.json",
+      "blockCount": 118
+    },
+    {
+      "id": "193",
+      "ordinal": 193,
+      "title": "資治通鑑卷第一百九十三",
+      "source": "OEBPS/text00199.html",
+      "path": "/book/volumes/193.json",
+      "blockCount": 137
+    },
+    {
+      "id": "194",
+      "ordinal": 194,
+      "title": "資治通鑑卷第一百九十四",
+      "source": "OEBPS/text00200.html",
+      "path": "/book/volumes/194.json",
+      "blockCount": 136
+    },
+    {
+      "id": "195",
+      "ordinal": 195,
+      "title": "資治通鑑卷第一百九十五",
+      "source": "OEBPS/text00201.html",
+      "path": "/book/volumes/195.json",
+      "blockCount": 124
+    },
+    {
+      "id": "196",
+      "ordinal": 196,
+      "title": "資治通鑑卷第一百九十六",
+      "source": "OEBPS/text00202.html",
+      "path": "/book/volumes/196.json",
+      "blockCount": 96
+    },
+    {
+      "id": "197",
+      "ordinal": 197,
+      "title": "資治通鑑卷第一百九十七",
+      "source": "OEBPS/text00203.html",
+      "path": "/book/volumes/197.json",
+      "blockCount": 100
+    },
+    {
+      "id": "198",
+      "ordinal": 198,
+      "title": "資治通鑑卷第一百九十八",
+      "source": "OEBPS/text00204.html",
+      "path": "/book/volumes/198.json",
+      "blockCount": 127
+    },
+    {
+      "id": "199",
+      "ordinal": 199,
+      "title": "資治通鑑卷第一百九十九",
+      "source": "OEBPS/text00205.html",
+      "path": "/book/volumes/199.json",
+      "blockCount": 172
+    },
+    {
+      "id": "200",
+      "ordinal": 200,
+      "title": "資治通鑑卷第二百",
+      "source": "OEBPS/text00206.html",
+      "path": "/book/volumes/200.json",
+      "blockCount": 154
+    },
+    {
+      "id": "201",
+      "ordinal": 201,
+      "title": "資治通鑑卷第二百一",
+      "source": "OEBPS/text00207.html",
+      "path": "/book/volumes/201.json",
+      "blockCount": 172
+    },
+    {
+      "id": "202",
+      "ordinal": 202,
+      "title": "資治通鑑卷第二百二",
+      "source": "OEBPS/text00208.html",
+      "path": "/book/volumes/202.json",
+      "blockCount": 202
+    },
+    {
+      "id": "203",
+      "ordinal": 203,
+      "title": "資治通鑑卷第二百三",
+      "source": "OEBPS/text00209.html",
+      "path": "/book/volumes/203.json",
+      "blockCount": 161
+    },
+    {
+      "id": "204",
+      "ordinal": 204,
+      "title": "資治通鑑卷第二百四",
+      "source": "OEBPS/text00210.html",
+      "path": "/book/volumes/204.json",
+      "blockCount": 152
+    },
+    {
+      "id": "205",
+      "ordinal": 205,
+      "title": "資治通鑑卷第二百五",
+      "source": "OEBPS/text00211.html",
+      "path": "/book/volumes/205.json",
+      "blockCount": 128
+    },
+    {
+      "id": "206",
+      "ordinal": 206,
+      "title": "資治通鑑卷第二百六",
+      "source": "OEBPS/text00212.html",
+      "path": "/book/volumes/206.json",
+      "blockCount": 149
+    },
+    {
+      "id": "207",
+      "ordinal": 207,
+      "title": "資治通鑑卷第二百七",
+      "source": "OEBPS/text00213.html",
+      "path": "/book/volumes/207.json",
+      "blockCount": 156
+    },
+    {
+      "id": "208",
+      "ordinal": 208,
+      "title": "資治通鑑卷第二百八",
+      "source": "OEBPS/text00214.html",
+      "path": "/book/volumes/208.json",
+      "blockCount": 156
+    },
+    {
+      "id": "209",
+      "ordinal": 209,
+      "title": "資治通鑑卷第二百九",
+      "source": "OEBPS/text00215.html",
+      "path": "/book/volumes/209.json",
+      "blockCount": 122
+    },
+    {
+      "id": "210",
+      "ordinal": 210,
+      "title": "資治通鑑卷第二百一十",
+      "source": "OEBPS/text00216.html",
+      "path": "/book/volumes/210.json",
+      "blockCount": 165
+    },
+    {
+      "id": "211",
+      "ordinal": 211,
+      "title": "資治通鑑卷第二百一十一",
+      "source": "OEBPS/text00217.html",
+      "path": "/book/volumes/211.json",
+      "blockCount": 154
+    },
+    {
+      "id": "212",
+      "ordinal": 212,
+      "title": "資治通鑑卷第二百一十二",
+      "source": "OEBPS/text00218.html",
+      "path": "/book/volumes/212.json",
+      "blockCount": 190
+    },
+    {
+      "id": "213",
+      "ordinal": 213,
+      "title": "資治通鑑卷第二百一十三",
+      "source": "OEBPS/text00219.html",
+      "path": "/book/volumes/213.json",
+      "blockCount": 161
+    },
+    {
+      "id": "214",
+      "ordinal": 214,
+      "title": "資治通鑑卷第二百一十四",
+      "source": "OEBPS/text00220.html",
+      "path": "/book/volumes/214.json",
+      "blockCount": 172
+    },
+    {
+      "id": "215",
+      "ordinal": 215,
+      "title": "資治通鑑卷第二百一十五",
+      "source": "OEBPS/text00221.html",
+      "path": "/book/volumes/215.json",
+      "blockCount": 138
+    },
+    {
+      "id": "216",
+      "ordinal": 216,
+      "title": "資治通鑑卷第二百一十六",
+      "source": "OEBPS/text00222.html",
+      "path": "/book/volumes/216.json",
+      "blockCount": 138
+    },
+    {
+      "id": "217",
+      "ordinal": 217,
+      "title": "資治通鑑卷第二百一十七",
+      "source": "OEBPS/text00223.html",
+      "path": "/book/volumes/217.json",
+      "blockCount": 97
+    },
+    {
+      "id": "218",
+      "ordinal": 218,
+      "title": "資治通鑑卷第二百一十八",
+      "source": "OEBPS/text00224.html",
+      "path": "/book/volumes/218.json",
+      "blockCount": 81
+    },
+    {
+      "id": "219",
+      "ordinal": 219,
+      "title": "資治通鑑卷第二百一十九",
+      "source": "OEBPS/text00225.html",
+      "path": "/book/volumes/219.json",
+      "blockCount": 96
+    },
+    {
+      "id": "220",
+      "ordinal": 220,
+      "title": "資治通鑑卷第二百二十",
+      "source": "OEBPS/text00226.html",
+      "path": "/book/volumes/220.json",
+      "blockCount": 118
+    },
+    {
+      "id": "221",
+      "ordinal": 221,
+      "title": "資治通鑑卷第二百二十一",
+      "source": "OEBPS/text00227.html",
+      "path": "/book/volumes/221.json",
+      "blockCount": 120
+    },
+    {
+      "id": "222",
+      "ordinal": 222,
+      "title": "資治通鑑卷第二百二十二",
+      "source": "OEBPS/text00228.html",
+      "path": "/book/volumes/222.json",
+      "blockCount": 144
+    },
+    {
+      "id": "223",
+      "ordinal": 223,
+      "title": "資治通鑑卷第二百二十三",
+      "source": "OEBPS/text00229.html",
+      "path": "/book/volumes/223.json",
+      "blockCount": 111
+    },
+    {
+      "id": "224",
+      "ordinal": 224,
+      "title": "資治通鑑卷第二百二十四",
+      "source": "OEBPS/text00230.html",
+      "path": "/book/volumes/224.json",
+      "blockCount": 171
+    },
+    {
+      "id": "225",
+      "ordinal": 225,
+      "title": "資治通鑑卷第二百二十五",
+      "source": "OEBPS/text00231.html",
+      "path": "/book/volumes/225.json",
+      "blockCount": 176
+    },
+    {
+      "id": "226",
+      "ordinal": 226,
+      "title": "資治通鑑卷第二百二十六",
+      "source": "OEBPS/text00232.html",
+      "path": "/book/volumes/226.json",
+      "blockCount": 94
+    },
+    {
+      "id": "227",
+      "ordinal": 227,
+      "title": "資治通鑑卷第二百二十七",
+      "source": "OEBPS/text00233.html",
+      "path": "/book/volumes/227.json",
+      "blockCount": 105
+    },
+    {
+      "id": "228",
+      "ordinal": 228,
+      "title": "資治通鑑卷第二百二十八",
+      "source": "OEBPS/text00234.html",
+      "path": "/book/volumes/228.json",
+      "blockCount": 80
+    },
+    {
+      "id": "229",
+      "ordinal": 229,
+      "title": "資治通鑑卷第二百二十九",
+      "source": "OEBPS/text00235.html",
+      "path": "/book/volumes/229.json",
+      "blockCount": 70
+    },
+    {
+      "id": "230",
+      "ordinal": 230,
+      "title": "資治通鑑卷第二百三十",
+      "source": "OEBPS/text00236.html",
+      "path": "/book/volumes/230.json",
+      "blockCount": 69
+    },
+    {
+      "id": "231",
+      "ordinal": 231,
+      "title": "資治通鑑卷第二百三十一",
+      "source": "OEBPS/text00237.html",
+      "path": "/book/volumes/231.json",
+      "blockCount": 96
+    },
+    {
+      "id": "232",
+      "ordinal": 232,
+      "title": "資治通鑑卷第二百三十二",
+      "source": "OEBPS/text00238.html",
+      "path": "/book/volumes/232.json",
+      "blockCount": 111
+    },
+    {
+      "id": "233",
+      "ordinal": 233,
+      "title": "資治通鑑卷第二百三十三",
+      "source": "OEBPS/text00239.html",
+      "path": "/book/volumes/233.json",
+      "blockCount": 100
+    },
+    {
+      "id": "234",
+      "ordinal": 234,
+      "title": "資治通鑑卷第二百三十四",
+      "source": "OEBPS/text00240.html",
+      "path": "/book/volumes/234.json",
+      "blockCount": 93
+    },
+    {
+      "id": "235",
+      "ordinal": 235,
+      "title": "資治通鑑卷第二百三十五",
+      "source": "OEBPS/text00241.html",
+      "path": "/book/volumes/235.json",
+      "blockCount": 147
+    },
+    {
+      "id": "236",
+      "ordinal": 236,
+      "title": "資治通鑑卷第二百三十六",
+      "source": "OEBPS/text00242.html",
+      "path": "/book/volumes/236.json",
+      "blockCount": 150
+    },
+    {
+      "id": "237",
+      "ordinal": 237,
+      "title": "資治通鑑卷第二百三十七",
+      "source": "OEBPS/text00243.html",
+      "path": "/book/volumes/237.json",
+      "blockCount": 134
+    },
+    {
+      "id": "238",
+      "ordinal": 238,
+      "title": "資治通鑑卷第二百三十八",
+      "source": "OEBPS/text00244.html",
+      "path": "/book/volumes/238.json",
+      "blockCount": 111
+    },
+    {
+      "id": "239",
+      "ordinal": 239,
+      "title": "資治通鑑卷第二百三十九",
+      "source": "OEBPS/text00245.html",
+      "path": "/book/volumes/239.json",
+      "blockCount": 154
+    },
+    {
+      "id": "240",
+      "ordinal": 240,
+      "title": "資治通鑑卷第二百四十",
+      "source": "OEBPS/text00246.html",
+      "path": "/book/volumes/240.json",
+      "blockCount": 129
+    },
+    {
+      "id": "241",
+      "ordinal": 241,
+      "title": "資治通鑑卷第二百四十一",
+      "source": "OEBPS/text00247.html",
+      "path": "/book/volumes/241.json",
+      "blockCount": 141
+    },
+    {
+      "id": "242",
+      "ordinal": 242,
+      "title": "資治通鑑卷第二百四十二",
+      "source": "OEBPS/text00248.html",
+      "path": "/book/volumes/242.json",
+      "blockCount": 119
+    },
+    {
+      "id": "243",
+      "ordinal": 243,
+      "title": "資治通鑑卷第二百四十三",
+      "source": "OEBPS/text00249.html",
+      "path": "/book/volumes/243.json",
+      "blockCount": 158
+    },
+    {
+      "id": "244",
+      "ordinal": 244,
+      "title": "資治通鑑卷第二百四十四",
+      "source": "OEBPS/text00250.html",
+      "path": "/book/volumes/244.json",
+      "blockCount": 119
+    },
+    {
+      "id": "245",
+      "ordinal": 245,
+      "title": "資治通鑑卷第二百四十五",
+      "source": "OEBPS/text00251.html",
+      "path": "/book/volumes/245.json",
+      "blockCount": 155
+    },
+    {
+      "id": "246",
+      "ordinal": 246,
+      "title": "資治通鑑卷第二百四十六",
+      "source": "OEBPS/text00252.html",
+      "path": "/book/volumes/246.json",
+      "blockCount": 147
+    },
+    {
+      "id": "247",
+      "ordinal": 247,
+      "title": "資治通鑑卷第二百四十七",
+      "source": "OEBPS/text00253.html",
+      "path": "/book/volumes/247.json",
+      "blockCount": 102
+    },
+    {
+      "id": "248",
+      "ordinal": 248,
+      "title": "資治通鑑卷第二百四十八",
+      "source": "OEBPS/text00254.html",
+      "path": "/book/volumes/248.json",
+      "blockCount": 166
+    },
+    {
+      "id": "249",
+      "ordinal": 249,
+      "title": "資治通鑑卷第二百四十九",
+      "source": "OEBPS/text00255.html",
+      "path": "/book/volumes/249.json",
+      "blockCount": 173
+    },
+    {
+      "id": "250",
+      "ordinal": 250,
+      "title": "資治通鑑卷第二百五十",
+      "source": "OEBPS/text00256.html",
+      "path": "/book/volumes/250.json",
+      "blockCount": 170
+    },
+    {
+      "id": "251",
+      "ordinal": 251,
+      "title": "資治通鑑卷第二百五十一",
+      "source": "OEBPS/text00257.html",
+      "path": "/book/volumes/251.json",
+      "blockCount": 87
+    },
+    {
+      "id": "252",
+      "ordinal": 252,
+      "title": "資治通鑑卷第二百五十二",
+      "source": "OEBPS/text00258.html",
+      "path": "/book/volumes/252.json",
+      "blockCount": 159
+    },
+    {
+      "id": "253",
+      "ordinal": 253,
+      "title": "資治通鑑卷第二百五十三",
+      "source": "OEBPS/text00259.html",
+      "path": "/book/volumes/253.json",
+      "blockCount": 148
+    },
+    {
+      "id": "254",
+      "ordinal": 254,
+      "title": "資治通鑑卷第二百五十四",
+      "source": "OEBPS/text00260.html",
+      "path": "/book/volumes/254.json",
+      "blockCount": 136
+    },
+    {
+      "id": "255",
+      "ordinal": 255,
+      "title": "資治通鑑卷第二百五十五",
+      "source": "OEBPS/text00261.html",
+      "path": "/book/volumes/255.json",
+      "blockCount": 127
+    },
+    {
+      "id": "256",
+      "ordinal": 256,
+      "title": "資治通鑑卷第二百五十六",
+      "source": "OEBPS/text00262.html",
+      "path": "/book/volumes/256.json",
+      "blockCount": 141
+    },
+    {
+      "id": "257",
+      "ordinal": 257,
+      "title": "資治通鑑卷第二百五十七",
+      "source": "OEBPS/text00263.html",
+      "path": "/book/volumes/257.json",
+      "blockCount": 142
+    },
+    {
+      "id": "258",
+      "ordinal": 258,
+      "title": "資治通鑑卷第二百五十八",
+      "source": "OEBPS/text00264.html",
+      "path": "/book/volumes/258.json",
+      "blockCount": 145
+    },
+    {
+      "id": "259",
+      "ordinal": 259,
+      "title": "資治通鑑卷第二百五十九",
+      "source": "OEBPS/text00265.html",
+      "path": "/book/volumes/259.json",
+      "blockCount": 134
+    },
+    {
+      "id": "260",
+      "ordinal": 260,
+      "title": "資治通鑑卷第二百六十",
+      "source": "OEBPS/text00266.html",
+      "path": "/book/volumes/260.json",
+      "blockCount": 157
+    },
+    {
+      "id": "261",
+      "ordinal": 261,
+      "title": "資治通鑑卷第二百六十一",
+      "source": "OEBPS/text00267.html",
+      "path": "/book/volumes/261.json",
+      "blockCount": 155
+    },
+    {
+      "id": "262",
+      "ordinal": 262,
+      "title": "資治通鑑卷第二百六十二",
+      "source": "OEBPS/text00268.html",
+      "path": "/book/volumes/262.json",
+      "blockCount": 117
+    },
+    {
+      "id": "263",
+      "ordinal": 263,
+      "title": "資治通鑑卷第二百六十三",
+      "source": "OEBPS/text00269.html",
+      "path": "/book/volumes/263.json",
+      "blockCount": 101
+    },
+    {
+      "id": "264",
+      "ordinal": 264,
+      "title": "資治通鑑卷第二百六十四",
+      "source": "OEBPS/text00270.html",
+      "path": "/book/volumes/264.json",
+      "blockCount": 107
+    },
+    {
+      "id": "265",
+      "ordinal": 265,
+      "title": "資治通鑑卷第二百六十五",
+      "source": "OEBPS/text00271.html",
+      "path": "/book/volumes/265.json",
+      "blockCount": 150
+    },
+    {
+      "id": "266",
+      "ordinal": 266,
+      "title": "資治通鑑卷第二百六十六",
+      "source": "OEBPS/text00272.html",
+      "path": "/book/volumes/266.json",
+      "blockCount": 137
+    },
+    {
+      "id": "267",
+      "ordinal": 267,
+      "title": "資治通鑑卷第二百六十七",
+      "source": "OEBPS/text00273.html",
+      "path": "/book/volumes/267.json",
+      "blockCount": 153
+    },
+    {
+      "id": "268",
+      "ordinal": 268,
+      "title": "資治通鑑卷第二百六十八",
+      "source": "OEBPS/text00274.html",
+      "path": "/book/volumes/268.json",
+      "blockCount": 165
+    },
+    {
+      "id": "269",
+      "ordinal": 269,
+      "title": "資治通鑑卷第二百六十九",
+      "source": "OEBPS/text00275.html",
+      "path": "/book/volumes/269.json",
+      "blockCount": 134
+    },
+    {
+      "id": "270",
+      "ordinal": 270,
+      "title": "資治通鑑卷第二百七十",
+      "source": "OEBPS/text00276.html",
+      "path": "/book/volumes/270.json",
+      "blockCount": 121
+    },
+    {
+      "id": "271",
+      "ordinal": 271,
+      "title": "資治通鑑卷第二百七十一",
+      "source": "OEBPS/text00277.html",
+      "path": "/book/volumes/271.json",
+      "blockCount": 108
+    },
+    {
+      "id": "272",
+      "ordinal": 272,
+      "title": "資治通鑑卷第二百七十二",
+      "source": "OEBPS/text00278.html",
+      "path": "/book/volumes/272.json",
+      "blockCount": 116
+    },
+    {
+      "id": "273",
+      "ordinal": 273,
+      "title": "資治通鑑卷第二百七十三",
+      "source": "OEBPS/text00279.html",
+      "path": "/book/volumes/273.json",
+      "blockCount": 136
+    },
+    {
+      "id": "274",
+      "ordinal": 274,
+      "title": "資治通鑑卷第二百七十四",
+      "source": "OEBPS/text00280.html",
+      "path": "/book/volumes/274.json",
+      "blockCount": 107
+    },
+    {
+      "id": "275",
+      "ordinal": 275,
+      "title": "資治通鑑卷第二百七十五",
+      "source": "OEBPS/text00281.html",
+      "path": "/book/volumes/275.json",
+      "blockCount": 131
+    },
+    {
+      "id": "276",
+      "ordinal": 276,
+      "title": "資治通鑑卷第二百七十六",
+      "source": "OEBPS/text00282.html",
+      "path": "/book/volumes/276.json",
+      "blockCount": 137
+    },
+    {
+      "id": "277",
+      "ordinal": 277,
+      "title": "資治通鑑卷第二百七十七",
+      "source": "OEBPS/text00283.html",
+      "path": "/book/volumes/277.json",
+      "blockCount": 173
+    },
+    {
+      "id": "278",
+      "ordinal": 278,
+      "title": "資治通鑑卷第二百七十八",
+      "source": "OEBPS/text00284.html",
+      "path": "/book/volumes/278.json",
+      "blockCount": 124
+    },
+    {
+      "id": "279",
+      "ordinal": 279,
+      "title": "資治通鑑卷第二百七十九",
+      "source": "OEBPS/text00285.html",
+      "path": "/book/volumes/279.json",
+      "blockCount": 155
+    },
+    {
+      "id": "280",
+      "ordinal": 280,
+      "title": "資治通鑑卷第二百八十",
+      "source": "OEBPS/text00286.html",
+      "path": "/book/volumes/280.json",
+      "blockCount": 97
+    },
+    {
+      "id": "281",
+      "ordinal": 281,
+      "title": "資治通鑑卷第二百八十一",
+      "source": "OEBPS/text00287.html",
+      "path": "/book/volumes/281.json",
+      "blockCount": 132
+    },
+    {
+      "id": "282",
+      "ordinal": 282,
+      "title": "資治通鑑卷第二百八十二",
+      "source": "OEBPS/text00288.html",
+      "path": "/book/volumes/282.json",
+      "blockCount": 151
+    },
+    {
+      "id": "283",
+      "ordinal": 283,
+      "title": "資治通鑑卷第二百八十三",
+      "source": "OEBPS/text00289.html",
+      "path": "/book/volumes/283.json",
+      "blockCount": 153
+    },
+    {
+      "id": "284",
+      "ordinal": 284,
+      "title": "資治通鑑卷第二百八十四",
+      "source": "OEBPS/text00290.html",
+      "path": "/book/volumes/284.json",
+      "blockCount": 132
+    },
+    {
+      "id": "285",
+      "ordinal": 285,
+      "title": "資治通鑑卷第二百八十五",
+      "source": "OEBPS/text00291.html",
+      "path": "/book/volumes/285.json",
+      "blockCount": 123
+    },
+    {
+      "id": "286",
+      "ordinal": 286,
+      "title": "資治通鑑卷第二百八十六",
+      "source": "OEBPS/text00292.html",
+      "path": "/book/volumes/286.json",
+      "blockCount": 123
+    },
+    {
+      "id": "287",
+      "ordinal": 287,
+      "title": "資治通鑑卷第二百八十七",
+      "source": "OEBPS/text00293.html",
+      "path": "/book/volumes/287.json",
+      "blockCount": 129
+    },
+    {
+      "id": "288",
+      "ordinal": 288,
+      "title": "資治通鑑卷第二百八十八",
+      "source": "OEBPS/text00294.html",
+      "path": "/book/volumes/288.json",
+      "blockCount": 139
+    },
+    {
+      "id": "289",
+      "ordinal": 289,
+      "title": "資治通鑑卷第二百八十九",
+      "source": "OEBPS/text00295.html",
+      "path": "/book/volumes/289.json",
+      "blockCount": 112
+    },
+    {
+      "id": "290",
+      "ordinal": 290,
+      "title": "資治通鑑卷第二百九十",
+      "source": "OEBPS/text00296.html",
+      "path": "/book/volumes/290.json",
+      "blockCount": 143
+    },
+    {
+      "id": "291",
+      "ordinal": 291,
+      "title": "資治通鑑卷第二百九十一",
+      "source": "OEBPS/text00297.html",
+      "path": "/book/volumes/291.json",
+      "blockCount": 132
+    },
+    {
+      "id": "292",
+      "ordinal": 292,
+      "title": "資治通鑑卷第二百九十二",
+      "source": "OEBPS/text00298.html",
+      "path": "/book/volumes/292.json",
+      "blockCount": 120
+    },
+    {
+      "id": "293",
+      "ordinal": 293,
+      "title": "資治通鑑卷第二百九十三",
+      "source": "OEBPS/text00299.html",
+      "path": "/book/volumes/293.json",
+      "blockCount": 132
+    },
+    {
+      "id": "294",
+      "ordinal": 294,
+      "title": "資治通鑑卷第二百九十四",
+      "source": "OEBPS/text00300.html",
+      "path": "/book/volumes/294.json",
+      "blockCount": 137
+    }
+  ],
+  "appendices": [
+    {
+      "id": "appendix-00006",
+      "title": "資治通鑑序",
+      "source": "OEBPS/text00006.html",
+      "path": "/book/appendices/appendix-00006.json",
+      "blockCount": 8,
+      "byline": "宋神宗 · 趙頊"
+    },
+    {
+      "id": "appendix-00301",
+      "title": "進書表",
+      "source": "OEBPS/text00301.html",
+      "path": "/book/appendices/appendix-00301.json",
+      "blockCount": 131,
+      "byline": "北宋 · 司馬光"
+    },
+    {
+      "id": "appendix-00004",
+      "title": "新註資治通鑑序",
+      "source": "OEBPS/text00004.html",
+      "path": "/book/appendices/appendix-00004.json",
+      "blockCount": 13,
+      "byline": "南宋 · 胡三省"
+    },
+    {
+      "id": "appendix-00005",
+      "title": "興文署新刊資治通鑑序",
+      "source": "OEBPS/text00005.html",
+      "path": "/book/appendices/appendix-00005.json",
+      "blockCount": 8,
+      "byline": "元 · 王磐"
+    }
+  ],
+  "generatedFrom": "/Users/lty/Downloads/資治通鑑（典藏本）繁體豎排294卷全 胡三省註-.epub",
+  "counts": {
+    "blocks": 35467,
+    "notes": 96171,
+    "searchRecords": 35459
+  }
+}

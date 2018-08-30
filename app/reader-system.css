@@ -1,0 +1,614 @@
+/*
+ * Canonical reader design system.
+ * globals.css retains source-compatibility and historical layout rules only.
+ * New visual, responsive, state, and theme changes belong in this file.
+ */
+
+.reader-app {
+  --surface-canvas: #efebe4;
+  --surface-page: #faf8f3;
+  --surface-bar: rgba(244, 241, 234, 0.94);
+  --surface-panel: #fbf9f5;
+  --surface-control: rgba(91, 75, 57, 0.045);
+  --surface-active: rgba(150, 88, 72, 0.1);
+  --surface-hover: rgba(150, 88, 72, 0.06);
+  --text-main: #2b2824;
+  --text-heading: #24211e;
+  --text-soft: #6f675e;
+  --text-muted: #8d857b;
+  --text-note: #71675f;
+  --border-subtle: rgba(66, 55, 44, 0.11);
+  --border-strong: rgba(66, 55, 44, 0.18);
+  --accent: #985848;
+  --accent-strong: #7d4338;
+  --accent-soft: rgba(152, 88, 72, 0.11);
+  --entity-person: rgba(150, 62, 51, 0.52);
+  --entity-place: rgba(72, 99, 107, 0.6);
+  --entity-book: rgba(135, 91, 50, 0.52);
+  --shadow-page: 0 18px 54px rgba(48, 39, 31, 0.065);
+  --shadow-panel: 0 18px 50px rgba(45, 37, 29, 0.13);
+  --weight-body: 455;
+  --weight-note: 410;
+  --weight-label: 560;
+  --weight-structure: 610;
+  --weight-display: 650;
+  min-height: 100vh;
+  background: var(--surface-canvas);
+  color: var(--text-main);
+}
+
+.reader-app.theme-dark {
+  --surface-canvas: #121416;
+  --surface-page: #1c1e20;
+  --surface-bar: rgba(18, 20, 22, 0.94);
+  --surface-panel: #1c1e20;
+  --surface-control: #222528;
+  --surface-active: rgba(201, 134, 116, 0.15);
+  --surface-hover: rgba(201, 134, 116, 0.075);
+  --text-main: #d2cdc4;
+  --text-heading: #ebe5dc;
+  --text-soft: #b8b2a8;
+  --text-muted: #918c83;
+  --text-note: #b9b3a9;
+  --border-subtle: rgba(225, 220, 210, 0.11);
+  --border-strong: rgba(225, 220, 210, 0.17);
+  --accent: #c98674;
+  --accent-strong: #dfa395;
+  --accent-soft: rgba(201, 134, 116, 0.15);
+  --entity-person: rgba(208, 132, 115, 0.72);
+  --entity-place: rgba(126, 164, 172, 0.76);
+  --entity-book: rgba(188, 153, 101, 0.7);
+  --shadow-page: 0 18px 54px rgba(0, 0, 0, 0.28);
+  --shadow-panel: 0 18px 50px rgba(0, 0, 0, 0.38);
+  --weight-body: 470;
+  --weight-note: 430;
+  color-scheme: dark;
+}
+
+html[data-reader-theme="light"],
+html[data-reader-theme="light"] body {
+  color-scheme: light;
+  background: #efebe4;
+}
+
+html[data-reader-theme="dark"],
+html[data-reader-theme="dark"] body {
+  color-scheme: dark;
+  background: #121416;
+}
+
+.reader-app,
+.reader-app .topbar,
+.reader-app .book-page,
+.reader-app .side-drawer,
+.reader-app .appearance-popover {
+  transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease;
+}
+
+/* Global interaction contract */
+.reader-app button,
+.reader-app input {
+  font: inherit;
+}
+
+.reader-app button:focus-visible,
+.reader-app input:focus-visible,
+.reader-app [role="button"]:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--accent) 62%, transparent);
+  outline-offset: 2px;
+}
+
+.reader-app ::selection {
+  background: color-mix(in srgb, var(--accent) 34%, transparent);
+  color: var(--text-heading);
+}
+
+/* Persistent navigation */
+.reader-app .topbar {
+  border-bottom-color: var(--border-subtle);
+  background: var(--surface-bar);
+  color: var(--text-soft);
+}
+
+.reader-app .book-name {
+  color: var(--text-heading);
+  font-weight: var(--weight-display);
+}
+
+.reader-app .current-juan {
+  color: var(--text-muted);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .icon-button {
+  min-width: 38px;
+  min-height: 38px;
+  color: var(--text-soft);
+}
+
+.reader-app .icon-button:hover,
+.reader-app .icon-button.is-active {
+  color: var(--accent-strong);
+  background: var(--surface-hover);
+}
+
+.reader-app .reading-progress {
+  height: 2px;
+  background: var(--accent);
+}
+
+.reader-app .topbar .note-controls {
+  border-color: var(--border-subtle);
+  background: color-mix(in srgb, var(--surface-panel) 86%, transparent);
+  color: var(--text-soft);
+  box-shadow: none;
+}
+
+.reader-app .topbar .note-controls .note-master-toggle,
+.reader-app .topbar .note-controls .note-detail-controls > button {
+  color: var(--text-soft);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .topbar .note-controls .note-master-toggle[aria-checked="true"] i {
+  background: var(--accent);
+}
+
+.reader-app .topbar .note-controls .note-detail-controls > button:hover,
+.reader-app .topbar .note-controls .note-detail-controls > button.is-active {
+  background: var(--surface-active);
+  color: var(--accent-strong);
+}
+
+.reader-app .topbar .collation-glyph {
+  border-color: var(--border-strong);
+  color: var(--text-soft);
+}
+
+/* Page and typographic hierarchy */
+.reader-app .book-page {
+  width: min(880px, calc(100% - 24px));
+  min-height: 100vh;
+  margin: 12px auto 48px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 2px;
+  background:
+    radial-gradient(circle at 22% 0%, color-mix(in srgb, var(--text-heading) 4%, transparent), transparent 36%),
+    var(--surface-page);
+  box-shadow: var(--shadow-page);
+}
+
+.reader-app .volume-heading,
+.reader-app .reader-content {
+  width: min(100%, 640px);
+}
+
+.reader-app .volume-heading {
+  margin-bottom: 48px;
+}
+
+.reader-app .volume-title-pair h1,
+.reader-app .volume-title-pair .volume-chronicle-title {
+  color: var(--text-heading);
+  font-size: clamp(28px, 4.4vw, 35px);
+  font-weight: var(--weight-display);
+}
+
+.reader-app .volume-title-pair .volume-chronicle-title {
+  font-weight: var(--weight-structure);
+}
+
+.reader-app .volume-title-separator {
+  background: color-mix(in srgb, var(--accent) 48%, transparent);
+}
+
+.reader-app .volume-chronicle-range {
+  color: var(--text-muted);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .volume-heading .heading-rule {
+  color: var(--accent);
+}
+
+.reader-app .reader-content {
+  color: var(--text-main);
+  font-weight: var(--weight-body);
+  line-height: 2;
+}
+
+.reader-app.theme-dark .reader-content {
+  -webkit-font-smoothing: auto;
+}
+
+.reader-app .reader-content::before {
+  background: linear-gradient(to bottom, transparent, color-mix(in srgb, var(--accent) 18%, transparent) 4%, color-mix(in srgb, var(--accent) 12%, transparent) 96%, transparent);
+}
+
+.reader-app .reader-content::after {
+  border-color: color-mix(in srgb, var(--accent) 36%, transparent);
+  background: var(--surface-page);
+}
+
+.reader-app .reader-content strong {
+  color: var(--text-heading);
+  font-weight: var(--weight-display);
+}
+
+.reader-app .reader-content > .source-class-emperor {
+  color: var(--text-heading);
+  font-weight: var(--weight-structure);
+}
+
+.reader-app .reader-content > .source-class-emperor > strong {
+  font-weight: var(--weight-display);
+}
+
+.reader-app .reader-content > .source-class-emperor > strong::before,
+.reader-app .reader-content > .source-class-emperor > strong::after {
+  background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--accent) 42%, transparent));
+}
+
+.reader-app .reader-content > .source-block-year {
+  border-color: color-mix(in srgb, var(--accent) 38%, transparent);
+  background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--accent) 8%, transparent) 22%, color-mix(in srgb, var(--accent) 8%, transparent) 78%, transparent);
+  color: var(--accent-strong);
+  font-weight: var(--weight-structure);
+}
+
+.reader-app .year-heading-metadata {
+  color: var(--text-muted);
+  font-weight: var(--weight-label);
+}
+
+/* Historical judgments: 司馬光按語、史家贊論與評語。 */
+.reader-app .reader-content .source-block-commentary,
+.reader-app .reader-content .source-class-comment {
+  margin: 2em 0;
+  padding: 0.9em 1.15em 0.95em 1.25em;
+  border-left: 2px solid color-mix(in srgb, var(--accent) 58%, transparent);
+  background: linear-gradient(90deg, color-mix(in srgb, var(--accent) 7%, transparent), transparent 78%);
+  color: var(--text-main);
+  font-family: var(--font-body);
+  font-size: 0.98em;
+  font-weight: var(--weight-body);
+  line-height: 2;
+  text-indent: 2em;
+}
+
+.reader-app .reader-content .source-class-comment:has(.commentary-lead) {
+  text-indent: 0;
+}
+
+.reader-app .reader-content .commentary-lead {
+  color: var(--accent-strong);
+  font-family: var(--font-body);
+  font-weight: var(--weight-display);
+  letter-spacing: 0.06em;
+}
+
+/* Annotation hierarchy */
+.reader-app .source-note .source-note-marker,
+.reader-app .detached-note-label {
+  color: var(--accent);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .source-block:not(.source-block-standalone-note) .source-note.is-expanded .source-note-text,
+.reader-app .source-block-standalone-note,
+.reader-app .detached-note {
+  color: var(--text-note);
+  font-weight: var(--weight-note);
+}
+
+.reader-app .source-block:not(.source-block-standalone-note) .source-note.is-expanded .source-note-text::before,
+.reader-app .source-block:not(.source-block-standalone-note) .source-note.is-expanded .source-note-text::after {
+  color: var(--accent);
+}
+
+.reader-app .source-block-standalone-note,
+.reader-app .detached-note.is-expanded {
+  border-left-color: color-mix(in srgb, var(--accent) 34%, transparent);
+}
+
+/* Scholarly marking grammar */
+.reader-app .reader-content.layer-persons :is(.source-person, .person, [data-entity="person"], [data-kind="person"]) {
+  text-decoration-style: solid;
+  text-decoration-color: var(--entity-person);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22em;
+}
+
+.reader-app .reader-content.layer-places :is(.source-place, .place, [data-entity="place"], [data-kind="place"]) {
+  text-decoration-style: dotted;
+  text-decoration-color: var(--entity-place);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+.reader-app .reader-content.layer-books :is(.source-book, .book, [data-entity="book"], [data-kind="book"]) {
+  text-decoration-style: double;
+  text-decoration-color: var(--entity-book);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+.reader-app .reader-content.layer-years :is(.source-year, .year, [data-entity="year"], [data-kind="year"]) {
+  background: linear-gradient(transparent 84%, color-mix(in srgb, var(--entity-book) 26%, transparent) 84%);
+}
+
+/* Panels and settings */
+.reader-app .theme-setting-row {
+  margin-top: 14px;
+}
+
+.reader-app .theme-switcher {
+  display: grid;
+  grid-template-columns: repeat(2, 42px);
+  padding: 2px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  background: var(--surface-control);
+}
+
+.reader-app .theme-switcher button {
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: 2px;
+  background: transparent;
+  color: var(--text-muted);
+  font-family: var(--font-interface);
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.reader-app .appearance-popover,
+.reader-app .side-drawer {
+  border-color: var(--border-subtle);
+  background: var(--surface-panel);
+  color: var(--text-main);
+  box-shadow: var(--shadow-panel);
+}
+
+.reader-app .setting-row {
+  color: var(--text-soft);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .font-stepper,
+.reader-app .theme-switcher,
+.reader-app .layer-grid button {
+  border-color: var(--border-subtle);
+  background: var(--surface-control);
+  color: var(--text-soft);
+}
+
+.reader-app .font-stepper button,
+.reader-app .font-stepper output,
+.reader-app .theme-switcher button {
+  color: var(--text-soft);
+}
+
+.reader-app .theme-switcher button.is-active,
+.reader-app .layer-grid button.is-active {
+  background: var(--surface-active);
+  color: var(--accent-strong);
+  font-weight: var(--weight-display);
+}
+
+.reader-app .setting-divider,
+.reader-app .drawer-header,
+.reader-app .drawer-search {
+  border-color: var(--border-subtle);
+}
+
+/* TOC */
+.reader-app .side-drawer.toc-drawer {
+  background: var(--surface-panel);
+}
+
+.reader-app .drawer-header h2 {
+  color: var(--text-heading);
+  font-weight: var(--weight-display);
+}
+
+.reader-app .drawer-header small,
+.reader-app .drawer-empty {
+  color: var(--text-muted);
+}
+
+.reader-app .volume-list .toc-dynasty > summary,
+.reader-app .toc-dynasty > summary {
+  border-bottom-color: var(--border-subtle);
+  background: color-mix(in srgb, var(--surface-panel) 97%, transparent);
+  color: var(--text-soft);
+}
+
+.reader-app .volume-list .toc-dynasty[open] > summary,
+.reader-app .volume-list .toc-dynasty > summary:hover {
+  color: var(--accent-strong);
+}
+
+.reader-app .volume-list .toc-dynasty .toc-dynasty-name {
+  font-weight: var(--weight-structure);
+}
+
+.reader-app .volume-list .toc-dynasty .toc-dynasty-count {
+  color: var(--text-muted);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .toc-dynasty summary::after {
+  border-color: var(--text-muted);
+}
+
+.reader-app .volume-list .toc-volume-rows {
+  border-left-color: color-mix(in srgb, var(--accent) 22%, transparent);
+}
+
+.reader-app .volume-list button.toc-volume-row {
+  min-height: 44px;
+  background: transparent;
+  color: var(--text-soft);
+}
+
+.reader-app .volume-list button.toc-volume-row span {
+  color: var(--text-muted);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .volume-list button.toc-volume-row strong {
+  color: var(--text-main);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .volume-list button.toc-volume-row:hover {
+  background: var(--surface-hover);
+  color: var(--accent-strong);
+}
+
+.reader-app .volume-list button.toc-volume-row.is-current {
+  background: linear-gradient(90deg, var(--surface-active), transparent);
+  color: var(--accent-strong);
+}
+
+.reader-app .volume-list button.toc-volume-row.is-current strong {
+  color: var(--accent-strong);
+  font-weight: var(--weight-display);
+}
+
+.reader-app .volume-list button.toc-volume-row.is-current::before,
+.reader-app .volume-list .toc-dynasty[open] summary::before {
+  background: var(--accent);
+}
+
+.reader-app .toc-reading-appendices .toc-appendix-row {
+  min-height: 52px;
+  border-color: var(--border-subtle);
+  background: transparent;
+  color: var(--text-main);
+}
+
+.reader-app .toc-reading-appendices .toc-appendix-title {
+  font-weight: var(--weight-structure);
+}
+
+.reader-app .toc-reading-appendices .toc-appendix-byline {
+  color: var(--text-muted);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .toc-reading-appendices .toc-appendix-row:hover,
+.reader-app .toc-reading-appendices .toc-appendix-row.is-current {
+  background: var(--surface-hover);
+  color: var(--accent-strong);
+}
+
+/* Search */
+.reader-app .side-drawer.search-drawer {
+  background: var(--surface-panel);
+}
+
+.reader-app .drawer-search {
+  background: var(--surface-control);
+}
+
+.reader-app .drawer-search input {
+  color: var(--text-main);
+}
+
+.reader-app .drawer-search input::placeholder,
+.reader-app .search-drawer p {
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+.reader-app .search-results button {
+  min-height: 54px;
+  border-bottom-color: var(--border-subtle);
+  background: transparent;
+}
+
+.reader-app .search-results button:hover {
+  background: var(--surface-hover);
+}
+
+.reader-app .search-results strong {
+  color: var(--accent-strong);
+  font-weight: var(--weight-display);
+}
+
+.reader-app .search-results span {
+  color: var(--text-soft);
+  font-weight: var(--weight-body);
+}
+
+/* Navigation and transient states */
+.reader-app .volume-navigation {
+  border-color: var(--border-subtle);
+}
+
+.reader-app .volume-navigation button {
+  min-height: 44px;
+  color: var(--text-soft);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .volume-navigation button:hover:not(:disabled) {
+  color: var(--accent-strong);
+}
+
+.reader-app .volume-navigation small,
+.reader-app .loading-state,
+.reader-app .error-state {
+  color: var(--text-muted);
+  font-weight: var(--weight-label);
+}
+
+.reader-app .drawer-scrim.is-visible,
+.reader-app .drawer-backdrop {
+  background: color-mix(in srgb, #050607 66%, transparent);
+}
+
+.reader-app .volume-list,
+.reader-app .search-results {
+  scrollbar-color: color-mix(in srgb, var(--text-muted) 54%, transparent) var(--surface-panel);
+}
+
+@media (max-width: 760px) {
+  .reader-app .topbar .note-controls {
+    align-self: stretch;
+    justify-self: stretch;
+    justify-content: flex-end;
+    width: 100%;
+    max-width: none;
+    height: 46px;
+    min-height: 46px;
+    padding: 3px 0;
+    border: 0;
+    border-top: 1px solid var(--border-subtle);
+    border-radius: 0;
+    background: transparent;
+  }
+}
+
+@media (max-width: 620px) {
+  .reader-app .book-page {
+    width: 100%;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .reader-app .reader-content::before,
+  .reader-app .reader-content::after {
+    display: none;
+  }
+
+  .reader-app .volume-title-pair h1,
+  .reader-app .volume-title-pair .volume-chronicle-title {
+    font-size: clamp(21px, 6.6vw, 26px);
+  }
+}
